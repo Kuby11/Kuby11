@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://pin.it/3C3Ibphsx)" width="100%" alt="gif" />
+  <img src="https://i.pinimg.com/originals/89/d2/5c/89d25cae46478a7dd8de90662a1f74b2.gif" width="100%" alt="gif" />
 
   # Hi, I'm kuby 👋
 
