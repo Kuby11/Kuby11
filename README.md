@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://pin.it/3C3Ibphsx)" width="100%" alt="Coding animation" />
+  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://pin.it/3C3Ibphsx)" width="100%" alt="gif" />
 
   # Hi, I'm kuby 👋
 
